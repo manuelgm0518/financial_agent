@@ -1,4 +1,5 @@
 from agno.agent import Agent
+from agno.storage.sqlite import SqliteStorage
 from agno.tools.csv_toolkit import CsvTools
 import os
 
@@ -9,6 +10,9 @@ csv_files = [
     for f in os.listdir(data_cleaned_dir)
     if f.endswith(".csv")
 ]
+
+storage = SqliteStorage(table_name="agent_sessions", db_file="tmp/agent.db")
+
 
 simple_search_agent = Agent(
     name="Simple Search Agent",
@@ -26,4 +30,8 @@ simple_search_agent = Agent(
     ],
     show_tool_calls=True,
     markdown=True,
+    storage=storage,
+    add_datetime_to_instructions=True,
+    add_history_to_messages=True,
+    num_history_runs=3,
 )
