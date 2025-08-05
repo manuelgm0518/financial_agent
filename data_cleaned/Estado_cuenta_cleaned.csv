@@ -1,0 +1,25 @@
+fecha,descripción_de_la_transacción,monto_de_la_transacción_(mxn),saldo_(mxn)
+2025-06-29,por pagar - vendor y,-17695.72,-24998.81
+2025-06-13,por pagar - vendor y,-15603.38,-7303.09
+2025-06-11,por cobrar - client c,2151.64,8300.29
+2024-06-05,renta de oficina,-8000.0,6148.65
+2024-06-05,internet,-300.0,14148.65
+2024-06-05,suscripciones de software,-1200.0,14448.65
+2024-06-05,servicios contables,-1500.0,15648.65
+2024-06-05,nómina,-25000.0,17148.65
+2024-06-05,limpieza,-1000.0,42148.65
+2024-06-05,cafetería,-600.0,43148.65
+2025-05-30,por pagar - vendor x,-18651.35,43748.65
+2025-05-28,por pagar - vendor x,-7877.93,63538.73
+2025-05-28,por cobrar - client c,9620.75,71416.66
+2025-05-16,por cobrar - client d,4613.97,50514.26
+2025-05-07,por cobrar - client a,13390.75,63905.01
+2025-05-06,por cobrar - client b,17360.96,79491.63
+2025-05-05,renta de oficina,-8000.0,92000.0
+2025-05-05,internet,-300.0,91700.0
+2025-05-05,suscripciones de software,-1200.0,90500.0
+2025-05-05,servicios contables,-1500.0,89000.0
+2025-05-05,nómina,-25000.0,64000.0
+2025-05-05,limpieza,-1000.0,63000.0
+2025-05-05,cafetería,-600.0,62400.0
+2025-05-05,por cobrar - client b,13829.04,77734.05

@@ -20,6 +20,8 @@ simple_search_agent = Agent(
         "Choose the right file based on the user's question.",
         "Explain your reasoning for the user.",
         "Add the calculated value to the response.",
+        "Answer briefly and to the point.",
+        "Highlight the final answer.",
         "Available CSV files: " + ", ".join([os.path.basename(f) for f in csv_files]) if csv_files else "No CSV files found"
     ],
     show_tool_calls=True,
