@@ -1,0 +1,16 @@
+id,tipo,nombre_de_la_empresa,relacion,fecha_emision,fecha_vencimiento,monto,flexibilidad_pago_30_días,penalidad_%
+F-0301,por cobrar,grupo alfa,cliente,2025-03-04,2025-03-31,76693,no,0.09
+F-0302,por cobrar,distribuidora maya,cliente,2025-03-17,2025-04-12,68430,no,0.09
+F-0303,por cobrar,distribuidora maya,cliente,2025-03-02,2025-03-19,11099,no,0.09
+F-0304,por pagar,servicios integrales sa,proveedor,2025-03-02,2025-03-16,18567,sí,0.05
+F-0305,por pagar,mantenimiento y limpieza,proveedor,2025-03-15,2025-04-04,48535,no,0.09
+F-0401,por pagar,servicios integrales sa,proveedor,2025-04-05,2025-04-22,68439,sí,0.1
+F-0402,por pagar,red de tecnología mx,proveedor,2025-04-10,2025-05-01,5614,no,0.09
+F-0403,por cobrar,distribuidora maya,cliente,2025-04-15,2025-05-07,34043,sí,0.12
+F-0404,por cobrar,distribuidora maya,cliente,2025-04-15,2025-05-15,18793,sí,0.13
+F-0405,por pagar,servicios integrales sa,proveedor,2025-04-20,2025-05-10,53425,sí,0.15
+F-0601,por cobrar,comercializadora del norte,cliente,2025-06-16,2025-07-07,56022,no,0.09
+F-0602,por cobrar,grupo alfa,cliente,2025-06-10,2025-07-02,14499,sí,0.12
+F-0603,por pagar,red de tecnología mx,proveedor,2025-06-07,2025-06-18,40826,sí,0.02
+F-0604,por pagar,red de tecnología mx,proveedor,2025-06-08,2025-07-08,72366,no,0.09
+F-0605,por cobrar,comercializadora del norte,cliente,2025-06-17,2025-07-07,27716,sí,0.01

@@ -1,8 +1,6 @@
-gasto_fijo,monto_(mxn),día_del_mes_para_hacer_pago
-renta de oficina,8000,5
-internet,300,5
-suscripciones de software,1200,5
-servicios contables,1500,5
-nómina,25000,5
-limpieza,1000,5
-cafetería,600,5
+concepto,monto_mxn,dia_pago
+renta de oficina,50000,5
+servicios de internet,3000,10
+salarios,200000,15
+software y licencias,12000,20
+limpieza y mantenimiento,4000,25
